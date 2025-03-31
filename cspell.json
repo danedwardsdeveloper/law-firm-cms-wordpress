@@ -1,3 +1,9 @@
 {
-	"words": ["filesize"]
+	"words": [
+		"dashicons",
+		"filesize"
+	],
+	"ignorePaths": [
+		"fly.toml"
+	]
 }
