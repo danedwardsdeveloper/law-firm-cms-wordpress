@@ -18,3 +18,4 @@ http://localhost:8000/wp-admin/index.php
 # API
 
 http://localhost:8000/wp-json/wp/v2/posts
+http://localhost:8000/wp-json/wp/v2/services
